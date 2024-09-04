@@ -1,2 +1,2 @@
 # dieatrandom
- A datapack for Minecraft that randomly kills players! 
+ A datapack for Minecraft that randomly kills players & more! 
