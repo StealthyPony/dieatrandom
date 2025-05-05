@@ -1,11 +1,11 @@
 # die@random
  A datapack for Minecraft that randomly kills players & more!\
- ***Currently supports Minecraft versions from 23w31a to 1.21.4***
+ ***Currently supports Minecraft versions from 23w31a to 1.21.5***
 
 # ⚙️ Customisation
 ### ☠️ Odds for dying
  You can adjust the chances for dying using `/data modify storage dieatrandom:config odds set value <number>`\
- *The default value is 10000*
+ *The default value is `10000`*
 > **NOTE:**\
 > The odds are 1/\<number>, so the default equals 1/10000
 
