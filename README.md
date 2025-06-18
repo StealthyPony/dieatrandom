@@ -1,6 +1,6 @@
 # die@random
  A datapack for Minecraft that randomly kills players & more!\
- ***Currently supports Minecraft versions from 23w31a to 1.21.5***
+ ***Currently supports Minecraft versions from 1.20.2 to 1.21.6***
 
 # ⚙️ Customisation
 ### ☠️ Odds for dying
