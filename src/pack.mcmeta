@@ -1,7 +1,9 @@
 {
   "pack": {
-    "pack_format": 80,
-    "supported_formats":{"min_inclusive": 16, "max_inclusive": 80},
+    "pack_format": 107,
+    "supported_formats":{"min_inclusive": 16, "max_inclusive": 107},
+    "min_format": 16,
+    "max_format": 107,
     "description": "A datapack that randomly kills players & more!"
   }
 }

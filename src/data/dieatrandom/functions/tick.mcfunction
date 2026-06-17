@@ -1,1 +1,1 @@
-execute if data storage dieatrandom:config setupcomplete run function dieatrandom:trykill with storage dieatrandom:config
+execute if data storage dieatrandom:status init unless data storage dieatrandom:status deactivated run function dieatrandom:roll_the_dice with storage dieatrandom:config
